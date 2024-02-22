@@ -35,7 +35,6 @@ A Movie Recommendation System is an application designed to provide personalized
 
 To run the code, you need to have the following libraries installed:
 
-- Tkinter
 - pandas
 - numpy
 - difflib
